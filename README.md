@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Data-Driven Execution System  
 *A modular end-to-end pipeline integrating data ingestion, ML inference, backtesting, and real-time execution.*
 
@@ -183,3 +184,6 @@ MIT License.
 ##Contact
 
 For questions or collaboration opportunities, feel free to reach out.
+=======
+# trading-system
+>>>>>>> f22f3c9cfa4ab31a4c3335014085b074536070d5
